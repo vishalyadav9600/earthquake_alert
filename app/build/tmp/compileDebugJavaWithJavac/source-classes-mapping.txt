@@ -1,0 +1,13 @@
+com/example/android/quakereport/EarthquakeActivity.java
+ com.example.android.quakereport.EarthquakeActivity
+ com.example.android.quakereport.EarthquakeActivity$1
+com/example/android/quakereport/EarthquakeLoader.java
+ com.example.android.quakereport.EarthquakeLoader
+com/example/android/quakereport/QueryUtils.java
+ com.example.android.quakereport.QueryUtils
+com/example/android/quakereport/BuildConfig.java
+ com.example.android.quakereport.BuildConfig
+com/example/android/quakereport/Earthquake.java
+ com.example.android.quakereport.Earthquake
+com/example/android/quakereport/EarthquakeAdapter.java
+ com.example.android.quakereport.EarthquakeAdapter

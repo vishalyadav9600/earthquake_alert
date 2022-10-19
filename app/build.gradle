@@ -1,0 +1,31 @@
+ext {
+    appcompatV7Version = appcompatV7Version
+}
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 30
+    //noinspection GradleDependency
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.example.android.quakereport"
+        minSdkVersion 23
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.13.1'
+    //noinspection GradleCompatible
+    implementation "com.android.support:appcompat-v7:${appcompatV7Version}"
+}

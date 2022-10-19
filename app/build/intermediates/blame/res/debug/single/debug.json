@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_earthquake_activity.xml.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\layout\\earthquake_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_earthquake_list_item.xml.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\layout\\earthquake_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_magnitude_circle.xml.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\drawable\\magnitude_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vibsr\\Downloads\\ud843-QuakeReport\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
